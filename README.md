@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning React and C<br>🎯 Goals: To be a Goat in all domains.<br>🎲 Fun fact: I use Vim.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning React and C<br>
 
 ###
 
